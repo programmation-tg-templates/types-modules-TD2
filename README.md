@@ -23,4 +23,5 @@ Le fichier `cercle.ts` contient deux fonctions :
 1. `perimetreCercle(rayon: number): number` pour le calcul du périmètre ;
 2. `aireCercle(rayon: number): number` pour le calcul de l’aire.
 
-Le fichier `main.ts` importe et utilise les fonctions.
+Le fichier `main.ts` importe et utilise les fonctions définies dans les deux modules précédents.
+
